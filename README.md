@@ -1,4 +1,11 @@
-# appointments-app
+# Appointments Demo App
+
+## Demo
+[http://appointments-demo-task.surge.sh/](http://appointments-demo-task.surge.sh/)
+<p align="left">
+  <img src="./demonstration/video.gif">
+</p>
+
 
 ## Project setup
 ```
@@ -19,6 +26,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
